@@ -5,7 +5,7 @@ Também conhecido como Google Dorks ou Ninja do Google, esse conjunto de técnic
 
 ![Google Hacking E-book](https://encontreseucodigo.com.br/wp-content/uploads/2022/04/logo.jpg)
 
-##Nós podemos utilizar o Google Hacking para melhorar nossas buscas.
+## Google Hacking para melhorar nossas buscas.
 Por exemplo, podemos encontrar:
 * Produtos mais baratos no Google
 * Encontrar matérias em sites específicos no Google
